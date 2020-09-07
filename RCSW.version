@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://bitbucket.org/rustycabbage/rcs-second-wave-options/downloads/RCSW.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/RustyCabbage/Second-Wave-Options/master/RCSW.version",
     "modName":"RC's Second Wave Options",
 	"modThreadId":17086,
     "modVersion":
